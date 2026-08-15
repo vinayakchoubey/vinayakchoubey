@@ -242,36 +242,67 @@ const developer = {
 ### 📊 GitHub Analytics & Problem Solving
 
 <div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayakchoubey&theme=flat&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
 
-  <br/><br/>
-
+  <!-- Activity & Streak Counters Grid -->
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vinayakchoubey&show_icons=true&theme=algolia&hide_border=false&border_radius=8&include_all_commits=true&count_private=true&title_color=2563eb&icon_color=3b82f6&text_color=334155&bg_color=ffffff" alt="Vinayak's GitHub Stats" height="175" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/vinayakchoubey">
+          <img src="https://streak-stats.demolab.com/?user=vinayakchoubey&theme=radical&hide_border=false&border_radius=8" alt="GitHub Streak Stats" width="100%" />
+        </a>
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayakchoubey&theme=algolia&hide_border=false&border_radius=8&stroke=2563eb&ring=2563eb&fire=f59e0b&currStreakNum=2563eb&sideNums=334155&sideLabels=64748b&dates=64748b&background=ffffff" alt="GitHub Streak Stats" height="175" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/vinayakchoubey">
+          <img src="https://github-readme-stats.vercel.app/api?username=vinayakchoubey&show_icons=true&theme=radical&hide_border=false&border_radius=8&count_private=true" alt="GitHub Stats" width="100%" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakchoubey&layout=compact&theme=algolia&hide_border=false&border_radius=8&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Top Languages" height="165" />
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/vinayakchoubey">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakchoubey&layout=compact&theme=radical&hide_border=false&border_radius=8" alt="Top Languages" width="100%" />
+        </a>
       </td>
-      <td>
-        <img src="https://leetcard.jacoblin.cool/vinayakchoubey?theme=light&font=Ubuntu&ext=activity" alt="LeetCode Stats (500+ Solved)" height="165" />
+      <td width="50%" align="center" valign="top">
+        <!-- Algorithmic & Problem Solving Showcase Card -->
+        <table width="100%">
+          <tr>
+            <th colspan="2" align="center">
+              🧠 <b>DSA & Problem Solving Highlights</b>
+            </th>
+          </tr>
+          <tr>
+            <td>🎯 <b>Total Problems Solved</b></td>
+            <td><code>500+ Problems</code></td>
+          </tr>
+          <tr>
+            <td>☕ <b>Primary Language</b></td>
+            <td><code>Java & C++</code></td>
+          </tr>
+          <tr>
+            <td>🏆 <b>Core Topics</b></td>
+            <td><code>Trees, Graphs, DP, Arrays, Heaps</code></td>
+          </tr>
+          <tr>
+            <td>🥇 <b>Hackathon Honors</b></td>
+            <td><code>3rd Position (Full Stack Rapid Build)</code></td>
+          </tr>
+          <tr>
+            <td>⚡ <b>Problem-Solving Accuracy</b></td>
+            <td><code>95%+ Logic Validation Rate</code></td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Contribution Graph Activity Widget -->
+  <!-- Interactive Activity Graph -->
   <a href="https://github.com/vinayakchoubey">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakchoubey&theme=github-compact&color=2563eb&line=3b82f6&point=1d4ed8&area=true&hide_border=false&border_radius=8&bg_color=ffffff" width="95%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayakchoubey&theme=github-compact&color=3b82f6&line=2563eb&point=1d4ed8&area=true&hide_border=false&border_radius=8" width="100%" alt="Contribution Graph" />
   </a>
+
 </div>
 
 ---
